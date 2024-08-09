@@ -22,6 +22,10 @@ Corresponding flowchart of our system
 
 ![image](https://github.com/user-attachments/assets/3dc154e2-9d75-43d8-9f03-e1781a5401d3)
 
+## Sample output
+![image](https://github.com/user-attachments/assets/f0c03096-4948-42f7-bdd3-d89d7ba0d2e1)
+
+
 
 
 
