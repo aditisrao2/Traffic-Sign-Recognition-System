@@ -14,7 +14,8 @@ The dataset comprises more than 40,000 images of various traffic signs that are 
 ## Methodology
 Architectural Diagram of employing CNN to classify various traffic signs
 
-![image](https://github.com/user-attachments/assets/71497280-193a-4a84-bbb5-8b967b16c8ef)
+![image](https://github.com/user-attachments/assets/964d3639-6e0d-49ff-bfe4-aaefacd6f11a)
+
 
 Corresponding flowchart of our system
 
